@@ -1,0 +1,9 @@
+name: YonixPvP
+main: net.barbutti.pvp.Main
+version: 1-SNAPSHOT
+commands:
+  kit:
+  spawn:
+  aplicar:
+  warp:
+    aliases: [delwarp, setwarp, warps]

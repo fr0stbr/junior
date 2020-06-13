@@ -1,0 +1,7 @@
+# ~~~
+# ~  barbuttiDEV
+# ~~~
+#
+ WarpSET: '&2&lWARP &aVocê setou a warp <warp>'
+ WarpTELEPORT: '&2&lWARP &aVocê foi teleportado para <warp>'
+ WarpINVALIDA: '&2&lWARP &aEstá warp não existe!'
